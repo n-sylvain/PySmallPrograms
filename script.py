@@ -1,6 +1,7 @@
-import math
+# import math
 import sys
-from os import rename
+
+# from os import rename
 
 import requests
 
@@ -18,3 +19,6 @@ print(r.status_code)
 
 # print(greet('World'))
 # print(greet('Corey'))
+
+# name = input("Your Name? ")
+# print("Hello,", name)
